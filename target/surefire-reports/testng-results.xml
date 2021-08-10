@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="68" started-at="2021-08-10T17:51:25Z" finished-at="2021-08-10T17:51:25Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="68" started-at="2021-08-10T17:51:25Z" finished-at="2021-08-10T17:51:25Z">
+      <class name="mavenjava.LogoutTest">
+        <test-method status="PASS" signature="logout()[pri:0, instance:mavenjava.LogoutTest@39ba5a14]" name="logout" duration-ms="0" started-at="2021-08-10T17:51:25Z" finished-at="2021-08-10T17:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- mavenjava.LogoutTest -->
+      <class name="mavenjava.LoginTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:mavenjava.LoginTest@36d64342]" name="login" duration-ms="6" started-at="2021-08-10T17:51:25Z" finished-at="2021-08-10T17:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- mavenjava.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

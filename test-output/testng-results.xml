@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-10T23:16:42 IST" name="Suite" finished-at="2021-08-10T23:16:42 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2021-08-10T23:16:42 IST" name="Test" finished-at="2021-08-10T23:16:42 IST" duration-ms="86">
+      <class name="mavenjava.LogoutTest">
+        <test-method signature="logout()[pri:0, instance:mavenjava.LogoutTest@6a6afff2]" started-at="2021-08-10T23:16:42 IST" name="logout" finished-at="2021-08-10T23:16:42 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- mavenjava.LogoutTest -->
+      <class name="mavenjava.LoginTest">
+        <test-method signature="login()[pri:0, instance:mavenjava.LoginTest@55536d9e]" started-at="2021-08-10T23:16:42 IST" name="login" finished-at="2021-08-10T23:16:42 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- mavenjava.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
